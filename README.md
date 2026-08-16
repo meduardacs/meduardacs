@@ -1,6 +1,6 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,100:8D58BF&height=180&section=header&text=Maria%20Eduarda&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Análise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=18"/> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8D58BF&center=true&vCenter=true&width=600&lines=Bem-vinda+ao+meu+perfil!;Estudante+de+ADS+%F0%9F%8E%93;Apaixonada+por+tecnologia+%F0%9F%92%BB;Sempre+aprendendo+algo+novo+%E2%9C%A8"/> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,100:8D58BF&height=180&section=header&text=Maria%20Eduarda&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Análise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=18"/> </p>
 
-Sou estudante de ADS, apaixonada por tecnologia e sempre em busca de aprender e evoluir como desenvolvedora. Aqui você pode conhecer mais sobre meus projetos e habilidades técnicas.
+Apaixonada por desenvolvimento e tecnologia. Abaixo estão meus conhecimentos técnicos e alguns projetos no qual desenvolvi.
 
 🛠️ Tecnologias e Habilidades
 Linguagens de Programação
