@@ -1,7 +1,5 @@
 👋 Olá, eu sou Maria Eduarda!
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-
-Bem-vinda ao meu perfil do GitHub! Sou estudante de ADS, apaixonada por tecnologia e sempre em busca de aprender e evoluir como desenvolvedora. Aqui você pode conhecer mais sobre meus projetos e habilidades técnicas.
+ Sou estudante de ADS, apaixonada por tecnologia e sempre em busca de aprender e evoluir como desenvolvedora. Aqui você pode conhecer mais sobre meus projetos e habilidades técnicas.
 
 🛠️ Tecnologias e Habilidades
 Linguagens de Programação
