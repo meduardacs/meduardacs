@@ -2,12 +2,12 @@
 
 Apaixonada por desenvolvimento e tecnologia. Abaixo estão meus conhecimentos técnicos e alguns projetos no qual desenvolvi.
 
-🛠️ Tecnologias e Habilidades
+ Tecnologias e Habilidades
 Linguagens de Programação
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,py" alt="HTML5, CSS3, JavaScript, Python"/> </p>
-Frontend
+FRONTEND
 <p align="left"> <img src="https://skillicons.dev/icons?i=react" alt="React"/> </p>
-Backend
+BACKEND
 <p align="left"> <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/> </p>
 Versionamento e Colaboração
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub"/> </p>
