@@ -1,6 +1,6 @@
 <div align="center">
   <img width="100%" alt="Maria Eduarda — banner animado" src="https://capsule-render.vercel.app/api?type=waving&color=0:221447,50:6D5BBA,100:A66DDA&height=180&section=header&text=Maria%20Eduarda&fontSize=48&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" />
-</div>💜 Sobre mim
+</div>
 Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia.
 💻 Linguagens
 <p>
