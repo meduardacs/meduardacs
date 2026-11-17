@@ -14,11 +14,11 @@
 </div>✦ Sobre mim
 Sou Maria Eduarda, estudante de Análise e Desenvolvimento de Sistemas, com interesse em desenvolvimento full-stack, análise de dados e inteligência artificial.
 
-Atuo como Jovem Aprendiz na área administrativa da Neoenergia, trabalhando com análise de informações em dashboards do Power BI e planilhas Excel. Fora do trabalho, desenvolvo projetos para praticar arquitetura de aplicações, APIs, bancos de dados e soluções com IA.
+
 - 💻 Desenvolvimento: interfaces web, APIs e aplicações full-stack.
 - 📊 Dados: análise de indicadores e visualização de informações.
 - 🧠 Interesses atuais: IA generativa, RAG, agentes com ferramentas e Machine Learning.
-- 🎓 Formação: Análise e Desenvolvimento de Sistemas.
+
 ✦ Tecnologias e ferramentas
 Desenvolvimento
 <p align="left">
