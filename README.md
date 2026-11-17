@@ -16,13 +16,6 @@ Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia.
 </p>🔀 Versionamento
 <p>
   <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git e GitHub" />
-</p>🚀 Projetos em destaque
-🍽️ FoodOps AI
-Copiloto de IA para apoiar operações de restaurantes e análise de dados.
-🏥 Exmed Concierge Inteligente
-Projeto de busca inteligente de serviços de saúde com uso de RAG.
-🚘 Viatura App
-Aplicação para checklist e gerenciamento de materiais em viaturas.
 🔗 LinkedIn
 <a href="https://www.linkedin.com/in/mariaeduadacarmo/">
   <img src="https://img.shields.io/badge/Meu%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Acessar LinkedIn" />
