@@ -1,6 +1,6 @@
 <div align="center">
   <img width="100%" alt="Maria Eduarda — banner animado" src="https://capsule-render.vercel.app/api?type=waving&color=0:221447,50:6D5BBA,100:A66DDA&height=180&section=header&text=Maria%20Eduarda&fontSize=48&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" />
-</div> Sobre mim
+</div>💜 Sobre mim
 Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia.
 💻 Linguagens
 <p>
@@ -11,7 +11,8 @@ Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia.
 </p><p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/IA%20Generativa-6D5BBA?style=for-the-badge&logo=openai&logoColor=white" alt="IA Generativa" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
 </p>🔀 Versionamento
 <p>
   <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git e GitHub" />
