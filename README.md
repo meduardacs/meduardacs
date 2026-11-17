@@ -44,19 +44,12 @@ Desenvolvimento
     </td>
     <td width="50%" valign="top">
       <h3>🚘 <a href="https://github.com/meduardacs/viatura-app">Checklist de Viaturas</a></h3>
-      <p><strong>Aplicação web para controle de materiais em viaturas.</strong> Registro de checklists diários, materiais faltantes e identificação de responsáveis.</p>
+      <p><strong>Automatização atráves Aplicação web para controle de materiais em viaturas.</strong> Registro de checklists diários, materiais faltantes e identificação de responsáveis.</p>
       <p><strong>Foco:</strong> formulários · gestão operacional · rastreabilidade</p>
       <a href="https://github.com/meduardacs/viatura-app"><img src="https://img.shields.io/badge/EXPLORAR%20REPOSIT%C3%93RIO-6D5BBA?style=flat-square&logo=github&logoColor=white" alt="Abrir repositório de checklist" /></a>
     </td>
   </tr>
-</table><details>
-<summary><b>🔎 Ver o que estou explorando em IA e dados</b></summary>
-<br />Me interesso especialmente por projetos que conectam engenharia de software e problemas reais, como:
-- RAG: recuperação de informações em documentos com referência às fontes.
-- Agentes de IA: uso de ferramentas para consultar sistemas e responder com dados.
-- Machine Learning: criação e avaliação de previsões com métricas comparáveis.
-- Analytics: indicadores que ajudam a transformar dados em decisões.
-</details>✦ Atividade no GitHub
+
 <details>
 <summary><b>📈 Expandir estatísticas e linguagens</b></summary>
 <br /><div align="center">
